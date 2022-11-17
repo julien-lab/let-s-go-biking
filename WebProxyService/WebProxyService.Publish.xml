@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\boein\source\repos\let's go biking\WebProxyService\executable\">
+    <file relUrl="bin/WebProxyService.dll" publishTime="04/27/2021 03:10:34" />
+    <file relUrl="bin/WebProxyService.pdb" publishTime="04/27/2021 03:10:34" />
+    <file relUrl="WebProxyService.Service1.svc" publishTime="04/27/2021 23:07:02" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="03/17/2021 19:58:04" />
+    <file relUrl="Web.config" publishTime="04/18/2021 18:11:52" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="03/17/2021 20:03:36" />
+    <file relUrl="bin/WebProxyService.dll.config" publishTime="04/18/2021 18:11:52" />
+  </publishTarget>
+</publishData>

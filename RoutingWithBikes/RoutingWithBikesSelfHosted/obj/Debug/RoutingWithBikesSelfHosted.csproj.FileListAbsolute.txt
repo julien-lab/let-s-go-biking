@@ -1,0 +1,17 @@
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\snappy32.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\snappy64.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\libzstd.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\mongocrypt.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikesSelfHosted.exe.config
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikesSelfHosted.exe
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikesSelfHosted.pdb
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikes.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\Newtonsoft.Json.dll
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikes.pdb
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\RoutingWithBikes.dll.config
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\bin\Debug\Newtonsoft.Json.xml
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\obj\Debug\RoutingWithBikesSelfHosted.csprojAssemblyReference.cache
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\obj\Debug\RoutingWithBikesSelfHosted.csproj.CoreCompileInputs.cache
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\obj\Debug\RoutingWithBikesSelfHosted.csproj.CopyComplete
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\obj\Debug\RoutingWithBikesSelfHosted.exe
+C:\Users\boein\source\repos\let's go biking\RoutingWithBikes\RoutingWithBikesSelfHosted\obj\Debug\RoutingWithBikesSelfHosted.pdb

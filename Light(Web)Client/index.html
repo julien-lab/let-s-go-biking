@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- The title of the page is written in the tab of the browser. -->
+    <title>My first Web Services UI client</title>
+
+    <!-- Let's load the CSS file.
+    Note: we could also write the style directly in the html page, inside a <style> tag. -->
+    <link rel="stylesheet" href="main.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+
+
+
+    <div class="container">
+        <div class="center">
+            <h1>Let's go Biking !</h1>
+        </div>
+    </div><br /><br />
+    <div id="map" class="map"></div>
+    <div id="step1" class="step">
+        <br /><br />
+        <h2>Define your starting point : enter longitude then latitude</h2>
+        <input list="startingPointLongitude" name="contractInput1" id="chosenContract1">
+        <br /><br />
+        <input list="startingPointLatitude" name="contractInput2" id="chosenContract2">
+        <br /><br />
+        <h2>Define your ending point : enter longitude then latitude</h2>
+        <input list="endingPointLongitude" name="contractInput3" id="chosenContract3">
+        <br /><br />
+        <input list="endingPointLatitude" name="contractInput4" id="chosenContract4">
+        <br /><br />
+        <button id="retrieveStartingPointButton" onclick="retrieveItinerary();">Validate</button>
+
+        <div id="map" class="map"></div>
+    </div>
+    <p id="ww">Itinerary : <br /><br /></p>
+
+
+    <!-- Let's load the JS file.
+    Note: we could also write the javascript directly in the html page, inside a <script> tag. -->
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>

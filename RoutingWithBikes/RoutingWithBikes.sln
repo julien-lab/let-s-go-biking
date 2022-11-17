@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingWithBikes", "RoutingWithBikes.csproj", "{55418969-4A28-4A65-B101-09F9D030741C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingWithBikesSelfHosted", "RoutingWithBikesSelfHosted\RoutingWithBikesSelfHosted.csproj", "{82447624-D639-4CB6-95E5-C68148C4912A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55418969-4A28-4A65-B101-09F9D030741C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55418969-4A28-4A65-B101-09F9D030741C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55418969-4A28-4A65-B101-09F9D030741C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55418969-4A28-4A65-B101-09F9D030741C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82447624-D639-4CB6-95E5-C68148C4912A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82447624-D639-4CB6-95E5-C68148C4912A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82447624-D639-4CB6-95E5-C68148C4912A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82447624-D639-4CB6-95E5-C68148C4912A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9163C969-D9DC-46EF-BF2F-2B1CD47C5B47}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyServiceSelfHosted.exe.config
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyServiceSelfHosted.exe
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyServiceSelfHosted.pdb
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyService.dll
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\Newtonsoft.Json.dll
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyService.pdb
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\WebProxyService.dll.config
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\bin\Debug\Newtonsoft.Json.xml
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\obj\Debug\WebProxyServiceSelfHosted.csprojAssemblyReference.cache
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\obj\Debug\WebProxyServiceSelfHosted.csproj.CoreCompileInputs.cache
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\obj\Debug\WebProxyServiceSelfHosted.csproj.CopyComplete
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\obj\Debug\WebProxyServiceSelfHosted.exe
+C:\Users\boein\source\repos\let's go biking\WebProxyService\WebProxyServiceSelfHosted\obj\Debug\WebProxyServiceSelfHosted.pdb

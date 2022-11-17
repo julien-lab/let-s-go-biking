@@ -1,0 +1,27 @@
+.map {
+    width: 50%;
+    height: 500px;
+}
+
+.container {
+    height: 100px;
+    position: relative;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.step {
+    margin: 0;
+    position: absolute;
+    top: 85%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+}
